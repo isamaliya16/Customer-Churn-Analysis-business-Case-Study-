@@ -73,8 +73,8 @@ All data analysis is performed using **SQL queries**, focusing on churn behavior
 
 ## 📊 PART 2 – Power BI Dashboard
 <p align="center">
-  <img src="images/Dashboard.png" alt="Churn Dashboard" width="850"/>
-</p>
+  <img src="Images/Dashboard.png" alt="Churn Dashboard" width="850"/>
+</p> 
 
 An **interactive and modern dashboard** built for business decision-makers.
 
